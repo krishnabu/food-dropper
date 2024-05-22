@@ -25,6 +25,7 @@ Server-Side<br>
         -npm install<br>
 
 # Running the Project
+Before running the project the Allow CORS: Access-Control-Allow-Origin extension should be ON in the Browser<br>
 --Client-Side<br>
     -To start the project on the client side, navigate to the client directory and run:<br>
       terminal<br>
