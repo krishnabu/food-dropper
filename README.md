@@ -15,14 +15,14 @@ To install all necessary node modules, run the following command in the project 
 Client-Side <br>
     -To install the node modules on the client side, navigate to the client directory and run:<br>
       terminal<br>
-        -cd client
-        -npm install
+        -cd client<br>
+        -npm install<br>
 
-```Server-Side
-    -To install the node modules on the server side, navigate to the server directory and run:
-      terminal
-        -cd server
-        -npm install
+Server-Side<br>
+    -To install the node modules on the server side, navigate to the server directory and run:<br>
+      terminal<br>
+        -cd server<br>
+        -npm install<br>
 
 # Running the Project
 --Client-Side
