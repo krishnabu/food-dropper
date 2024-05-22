@@ -19,9 +19,6 @@ const Heading=()=>{
                     <li className="px-4"><Link to="/about">About Us</Link></li>
                     <li className="px-4"><Link to="/contact">Contact Us</Link></li>
                     <li className="px-4"><Link to="/cart">Cart({cartitem.length} items)</Link></li>
-                    <li className="px-4"><button className="login" onClick={()=>{
-                        buttontogg==="login" ? setbuttontogg("logout"):setbuttontogg("login");
-                    }}>{buttontogg}</button></li>
                 </ul>
             </div>
         </div>
