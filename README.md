@@ -11,7 +11,7 @@ Before you begin, ensure you have met the following requirements:
 - You have installed the Allow CORS: Access-Control-Allow-Origin extension in your browser where you are running the project.
 
 ### Installation
-To install all necessary node modules, run the following command in the project root directory:
+To install all necessary node modules, run the following command in the project root directory:<br>
 Client-Side 
     -To install the node modules on the client side, navigate to the client directory and run:
       terminal
