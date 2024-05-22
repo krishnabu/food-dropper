@@ -25,18 +25,18 @@ Server-Side<br>
         -npm install<br>
 
 # Running the Project
---Client-Side
-    -To start the project on the client side, navigate to the client directory and run:
-      terminal
-        -cd client
-        -npm start
-      This will start the client application.
+--Client-Side<br>
+    -To start the project on the client side, navigate to the client directory and run:<br>
+      terminal<br>
+        -cd client<br>
+        -npm start<br>
+      This will start the client application.<br>
 
---Server-Side
-    -To start the project on the server side, navigate to the server directory and run:
-      terminal
-        -cd server
-        -npm start
-     This will start the server application.
+--Server-Side<br>
+    -To start the project on the server side, navigate to the server directory and run:<br>
+      terminal<br>
+        -cd server<br>
+        -npm start<br>
+     This will start the server application.<br>
 # Additional Information
     --Ensure both the client and server are running simultaneously for full functionality.
