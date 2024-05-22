@@ -38,5 +38,5 @@ Server-Side<br>
         -cd server<br>
         -npm start<br>
      This will start the server application.<br>
-# Additional Information
-    -Ensure both the client and server are running simultaneously for full functionality.
+### Additional Information
+    Ensure both the client and server are running simultaneously for full functionality.
